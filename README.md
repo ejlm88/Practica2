@@ -11,6 +11,8 @@
 5. df5.csv: fichero con una parte de los datos en crudo sobre los que vamos a realizar el estudio.
 6. df_final1: fichero con una parte de los datos limpios sobre los que se hará el análisis de datos.
 7. df_final2: fichero con una parte de los datos limpios sobre los que se hará el análisis de datos.
-8. df_final3: fichero con una parte de los datos limpios sobre los que se hará el análisis de datos.
-3. ejlm88_PRA2.ipynb: fichero con todo el código de la práctica.
-4. ejlm88_PRA2.pdf: fichero con los resultados y los pasos seguidos en la resolución de la práctica.
+9. df_final3: fichero con una parte de los datos limpios sobre los que se hará el análisis de datos.
+10. df_final4: fichero con una parte de los datos limpios sobre los que se hará el análisis de datos.
+11. df_final5: fichero con una parte de los datos limpios sobre los que se hará el análisis de datos.
+12. ejlm88_PRA2.ipynb: fichero con todo el código de la práctica.
+13. ejlm88_PRA2.pdf: fichero con los resultados y los pasos seguidos en la resolución de la práctica.
